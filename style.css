@@ -105,6 +105,43 @@ h2{
     padding-left: 4%;
 }
 
+
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+ .contact-wrapper input {
+    background: #fff;
+    height: 60px;
+    width: 100%;
+    padding: 10px 26px;
+    border: 0;
+    color: #a3a3a3;
+    font-weight: 500;
+    text-transform: capitalize;
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 30px;
+} 
+
+.contact-wrapper textarea {
+    color: #a3a3a3;
+    background: #fff;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif ;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    height: 160px;
+    width: 100%;
+    padding: 30px 26px;
+    border: 0;
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 30px;
+}
+
 footer{
     background-color: black;
     text-align: center;
