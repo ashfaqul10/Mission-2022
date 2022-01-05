@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+    margin: 50px;
 }
 
 h1{
@@ -14,7 +14,7 @@ p{
     font-size: 18px;
 }
 
-.blue-color{
+.orange-color{
     color:#FFAD5A;
 }
 
@@ -48,5 +48,45 @@ p{
     font-weight: 700;
     padding: 12px 40px;
     border-radius: 5px;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#h1-editor{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.small-picture img {
+    width: 141px;
+}
+
+#mission-bg{
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: rgba(79, 157, 166, 0.1);
+    border-radius: 24px;
+    padding:20px 40px;
+}
+
+
+
+#vision-bg{
+    margin-right: 2%;
+    background-color: rgba(255, 89, 89, 0.1);
+    border-radius: 24px;
+    padding:20px 40px;
+}
+
+#goal-bg{
+    margin-right: 2%;
+    background-color: rgba(255, 89, 89, 0.1);
+    border-radius: 24px;
+    padding:20px 40px;
 
 }
