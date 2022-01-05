@@ -1,0 +1,52 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 400;
+    font-family: 'Yeseva One', cursive;
+    padding-left: 3%;
+}
+
+p{
+    font-size: 18px;
+}
+
+.blue-color{
+    color:#FFAD5A;
+}
+
+.flex-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+#first-banner{
+    border-left:7px solid ;
+    border-image-slice: 1;
+    border-color: #FF5959;
+    border-radius: 5px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.half-width img{
+    padding-left: 8%;
+    width: 50%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color:#FF5959;
+    color: white;
+    font-weight: 700;
+    padding: 12px 40px;
+    border-radius: 5px;
+
+}
